@@ -10,10 +10,10 @@
 <p>I have a passion in making modern UI/UX designs, Right now I am focusing on front-end technologies like react. I have a coding experience of  year now. If you want any work done then don't hesitate to reach me.</p>
 
 <br>
-<h4>👀 I'm interested in Front-end development</h4>
-<h4>🌱 I'm currently learning ReactJs</h4>
-<h4>🔍 I'm currently working on old projects and react dashboard</h4>
-<h4>👨‍💻 All of my projects are available at <a target='_blank' href='https://ayannagori.netlify.app/'>My portfolio website</a></h4>
+<h4>👀 I'm interested in new Front-end technologies like NEXT 13, Threejs and AI projects</h4>
+<h4>🌱 I'm currently learning NextJs</h4>
+<h4>🔍 I'm currently working on improving my old projects and api projects(front-end only)</h4>
+<h4>👨‍💻 All of my projects are available at this gihub and at <a target='_blank' href='https://ayannagori.netlify.app/'>My portfolio website</a> for more pleasing and better view</h4>
 <br><br>
 
 
@@ -50,4 +50,4 @@
 <br><br>
 <h1 align='center'>🤙Connect With Me</h1>
 <p>Mail on ayannagori44@gmail.com</p>
-<p>Or send a message through <a target='_blank' href='https://ayannagori.netlify.app/'>My portfolio website</a></p>
+<p>Or send a message through contact forms on <a target='_blank' href='https://ayannagori.netlify.app/'>My portfolio website</a></p>
