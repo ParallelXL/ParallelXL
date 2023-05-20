@@ -4,7 +4,8 @@
 
 <br>
 
-<h1>👋 Hi, I’m Ayannagori44</h1>
+<h1>👋 Hi, I’m Ayannagori</h1>
+<span>Mostly named as ParallelXL online</span>
 <p>I really like making modern UI/UX designs, Right now I do freelancing of truelancer. I would like to work with more and more clients. If you want any work done then don't hesitate to reach me.</p>
 
 <br>
