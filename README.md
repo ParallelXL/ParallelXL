@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://ayannagori.netlify.app/" target="_blank" rel="noreferrer"><img width="90%" src="https://user-images.githubusercontent.com/106472729/173569751-282c5985-b72c-4aa2-aa4d-afa60de20a99.jpg" alt="banner" /></a>
+  <a href="https://ayannagori.netlify.app/" target="_blank" rel="noreferrer"><img width="90%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/534a4fbc-35ae-4181-a205-5e05e210e411" alt="banner" /></a>
 </p>
 
 <br>
+
 <h1>👋 Hi, I’m Ayannagori44</h1>
 <p>I really like making modern UI/UX designs, Right now I do freelancing of truelancer. I would like to work with more and more clients. If you want any work done then don't hesitate to reach me.</p>
 
