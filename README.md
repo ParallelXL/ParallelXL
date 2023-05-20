@@ -4,9 +4,10 @@
 
 <br>
 
-<h1>👋 Hi, I’m Ayannagori</h1>
-<span>Mostly named as ParallelXL online</span>
-<p>I really like making modern UI/UX designs, Right now I do freelancing of truelancer. I would like to work with more and more clients. If you want any work done then don't hesitate to reach me.</p>
+<h1>👋 Hi, I’m Ayan Nagori </h1>
+<span>Also Named as <b>ParallelXL</b> online🙌</span>
+<br>
+<p>I have a passion in making modern UI/UX designs, Right now I am focusing on front-end technologies like react. I have a coding experience of  year now. If you want any work done then don't hesitate to reach me.</p>
 
 <br>
 <h4>👀 I'm interested in Front-end development</h4>
