@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ayannagori.netlify.app/" target="_blank" rel="noreferrer"><img width="90%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/534a4fbc-35ae-4181-a205-5e05e210e411" alt="banner" /></a>
+  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/534a4fbc-35ae-4181-a205-5e05e210e411" alt="banner" /></a>
 </p>
 
 <br>
@@ -13,12 +13,10 @@
 <h4>👀 I'm interested in new Front-end technologies like Threejs, React and Sass</h4>
 <h4>🌱 I'm currently learning ThreeJS</h4>
 <h4>🔍 I'm currently working on improving my old projects and api projects(front-end only)</h4>
-<h4>👨‍💻 All of my projects are available at this gihub and at <a target='_blank' href='https://parallelxl.netlify.app/'>My portfolio website</a> for more pleasing and better view</h4>
+<h4>👨‍💻 All of my projects are available at this Github and at <a target='_blank' href='https://ayannagori.vercel.app/'>My Portfolio Website</a> for more pleasing and better view</h4>
+
 <br><br>
-
-
 <h1 align='center'>🔨 Tools and 🔥Tech stack</h1>
-
 <br><br>
 
 <p>Stack</p>
@@ -31,7 +29,7 @@
 <p>Tools</p>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-653568.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-653568.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
 ![CodePen](https://img.shields.io/badge/Codepen-7a4804?style=for-the-badge&logo=codepen&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,5 +47,5 @@
 
 <br><br>
 <h1 align='center'>🤙Connect With Me</h1>
-<p>Mail on ayannagori44@gmail.com</p>
-<p>Or send a message through contact forms on <a target='_blank' href='https://ayannagori.netlify.app/'>My portfolio website</a></p>
+<p>Mail on ayanmsn07@gmail.com</p>
+<p>Or send a message through contact forms on <a target='_blank' href='https://ayannagori.vercel.app/'>My Portfolio Website</a></p>
