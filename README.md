@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/534a4fbc-35ae-4181-a205-5e05e210e411" alt="banner" /></a>
+<p align="center" border-radius="10px">
+  <a href="https://ayannagori.vercel.app/" target="_blank" rel="noreferrer"><img width="100%" src="https://github.com/ParallelXL/ParallelXL/assets/134038947/b62412a7-e51e-40c3-84e2-b95a7889a687" alt="banner" /></a>
 </p>
-
-<br>
 
 <h1>👋 Hi, I’m Ayan Nagori </h1>
 <span>Also Named as <b>ParallelXL</b> online🙌</span>
